@@ -88,6 +88,17 @@ footer{
 }
 
 
+.code{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    border-radius: 5px;
+    border: var(--color) px;
+    height: 59px;
+    width: 278px;
+    
+}
 
 @media (prefers-color-scheme: dark) {
 
