@@ -16,7 +16,7 @@ body{
     -webkit-font-smoothing: antialiased;
     display: flex;
     min-height: 100vh;
-    min-width: 100vw;
+    min-width: 90vw;
     flex-direction: column;
 
 }
@@ -108,3 +108,8 @@ footer{
     }
   }
   
+
+  
+  body {
+    background-image: url(/img/wallpaper.png)
+  }
